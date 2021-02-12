@@ -19,4 +19,12 @@
   <ItemGroup>
     <Folder Include="Solution Items\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Link>Solution Items\README.md</Link>
+    </None>
+    <None Include="..\LICENSE">
+      <Link>Solution Items\LICENSE</Link>
+    </None>
+  </ItemGroup>
 </Project>
